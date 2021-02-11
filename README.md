@@ -8,7 +8,3 @@
 - 🌱 I’m learning Ruby on Rails, Javascript, HTML and CSS
 - :pencil: Join my [Coding Adventures](http://coding-adventures.com/)
 - 📫 Find me on [Twitter](https://twitter.com/TatyanaCelovsky)
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
