@@ -12,4 +12,9 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Writing Lists](http://coding-adventures.com/writing_lists)
+- [Overview of Active Record Associations](http://coding-adventures.com/overview_of_active_record_associations)
+- [Workout Studio Rails Project](http://coding-adventures.com/workout_studio_rails_project)
+- [Sinatra App Step-by-Step Guide](http://coding-adventures.com/sinatra_app_step-by-step_guide)
+- [All the Ruby Modules](http://coding-adventures.com/all_the_ruby_modules)
 <!-- BLOG-POST-LIST:END -->
