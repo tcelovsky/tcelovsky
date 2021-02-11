@@ -9,7 +9,7 @@
 - :pencil: Join my [Coding Adventures](http://coding-adventures.com/)
 - 📫 Find me on [Twitter](https://twitter.com/TatyanaCelovsky)
 
-### Blog posts
+#### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
