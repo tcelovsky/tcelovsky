@@ -5,7 +5,7 @@
 -->
 
 - :books: I'm a student [@flatiron-school](https://flatironschool.com/)
-- 🌱 I’m learning Ruby on Rails, Javascript, HTML and CSS
+- 🌱 I’m learning Ruby on Rails, Javascript, React/Redux, HTML and CSS
 - :pencil: Join my [Coding Adventures](http://coding-adventures.com/)
 - 📫 Find me on [Twitter](https://twitter.com/TatyanaCelovsky)
 
