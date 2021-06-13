@@ -4,8 +4,8 @@
 **tcelovsky/tcelovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- :books: I'm a student [@flatiron-school](https://flatironschool.com/)
-- 🌱 I’m learning Ruby on Rails, Javascript, React/Redux, HTML and CSS
+- 🎓 Software engineering bootcamp graduate [@flatiron-school](https://flatironschool.com/)
+- :books: Experience with Ruby on Rails, Javascript, React/Redux, HTML and CSS
 - :pencil: Join my [Coding Adventures](http://coding-adventures.com/)
 - 📫 Find me on [Twitter](https://twitter.com/TatyanaCelovsky)
 
