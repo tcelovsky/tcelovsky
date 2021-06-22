@@ -12,7 +12,7 @@
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Am I Here](http://coding-adventures.com/why_am_i_here)
+- [Why Am I Here?](http://coding-adventures.com/why_am_i_here)
 - [Launch Calendar](http://coding-adventures.com/launch_calendar)
 - [Writing Lists](http://coding-adventures.com/writing_lists)
 - [Overview of Active Record Associations](http://coding-adventures.com/overview_of_active_record_associations)
