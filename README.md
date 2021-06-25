@@ -9,7 +9,7 @@ I'm a full stack software engineer with experience in Ruby on Rails, Javascript,
 - 🎓 Software engineering bootcamp graduate [@flatiron-school](https://flatironschool.com/)
 - :computer: Experience with Ruby on Rails, Javascript, React/Redux, HTML and CSS
 - :pencil: Join my [Coding Adventures](http://coding-adventures.com/)
-- 📫 Find me on [Twitter](https://twitter.com/TatyanaCelovsky)
+- :bird: Find me on [Twitter](https://twitter.com/TatyanaCelovsky)
 
 #### Latest Blog Posts
 
