@@ -4,8 +4,10 @@
 **tcelovsky/tcelovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+I'm a full stack software engineer with experience in Ruby on Rails, Javascript, React/Redux, HTML and CSS. I have over 13 years of experience working as a tax professional in the financial services industry. I enjoy creating and building things!
+
 - 🎓 Software engineering bootcamp graduate [@flatiron-school](https://flatironschool.com/)
-- :books: Experience with Ruby on Rails, Javascript, React/Redux, HTML and CSS
+- :computer: Experience with Ruby on Rails, Javascript, React/Redux, HTML and CSS
 - :pencil: Join my [Coding Adventures](http://coding-adventures.com/)
 - 📫 Find me on [Twitter](https://twitter.com/TatyanaCelovsky)
 
