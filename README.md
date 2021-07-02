@@ -14,7 +14,6 @@ I'm a full stack software engineer with experience in Ruby on Rails, Javascript,
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Why Am I Here?](http://tatyanacelovsky.com/why_am_i_here)
 - [Launch Calendar](http://tatyanacelovsky.com/launch_calendar)
 - [Writing Lists](http://tatyanacelovsky.com/writing_lists)
