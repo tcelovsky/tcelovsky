@@ -14,9 +14,10 @@ I'm a full stack software engineer with experience in Ruby on Rails, Javascript,
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Am I Here?](http://coding-adventures.com/why_am_i_here)
-- [Launch Calendar](http://coding-adventures.com/launch_calendar)
-- [Writing Lists](http://coding-adventures.com/writing_lists)
-- [Overview of Active Record Associations](http://coding-adventures.com/overview_of_active_record_associations)
-- [Workout Studio Rails Project](http://coding-adventures.com/workout_studio_rails_project)
+
+- [Why Am I Here?](http://tatyanacelovsky.com/why_am_i_here)
+- [Launch Calendar](http://tatyanacelovsky.com/launch_calendar)
+- [Writing Lists](http://tatyanacelovsky.com/writing_lists)
+- [Overview of Active Record Associations](http://tatyanacelovsky.com/overview_of_active_record_associations)
+- [Workout Studio Rails Project](http://tatyanacelovsky.com/workout_studio_rails_project)
 <!-- BLOG-POST-LIST:END -->
