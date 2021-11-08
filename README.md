@@ -16,7 +16,7 @@ I'm a full stack software engineer with experience in Ruby on Rails, Javascript,
 <!-- BLOG-POST-LIST:START -->
 - [Algorithm Series - Selection Sort](http://tatyanacelovsky.com/algorithm_series_-_selection_sort)
 - [Algorithm Series - Bubble Sort](http://tatyanacelovsky.com/algorithm_series_-_bubble_sort)
-- [Let's Talk About Big-O](http://tatyanacelovsky.com/let's_talk_about_big_o)
+- [Let&#39;s Talk About Big-O](http://tatyanacelovsky.com/let's_talk_about_big_o)
 - [Why Am I Here?](http://tatyanacelovsky.com/why_am_i_here)
 - [Launch Calendar](http://tatyanacelovsky.com/launch_calendar)
 <!-- BLOG-POST-LIST:END -->
