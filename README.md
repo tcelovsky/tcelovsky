@@ -9,15 +9,18 @@ I'm a full stack software engineer with experience in Ruby on Rails, Javascript,
 - 🎓 Software engineering bootcamp graduate [@flatiron-school](https://flatironschool.com/)
 - :computer: Experience with Ruby on Rails, Javascript, React/Redux, HTML and CSS
 - :pencil: Find me on the [web](https://www.tatyanacelovsky.com/)
+<<<<<<< HEAD
 - :bird: Find me on [Twitter](https://twitter.com/TatyanaCelovsky)
+=======
+- :bird: Say hello on [Twitter](https://twitter.com/TatyanaCelovsky)
+>>>>>>> d1dd3c8e19bb399a3cb6379168d90cd6bf100c48
 
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Why Am I Here?](http://tatyanacelovsky.com/why_am_i_here)
-- [Launch Calendar](http://tatyanacelovsky.com/launch_calendar)
-- [Writing Lists](http://tatyanacelovsky.com/writing_lists)
-- [Overview of Active Record Associations](http://tatyanacelovsky.com/overview_of_active_record_associations)
-- [Workout Studio Rails Project](http://tatyanacelovsky.com/workout_studio_rails_project)
+- [Let&#39;s Talk About Big-O - Space Complexity](http://tatyanacelovsky.com/let's_talk_about_big_o_space_complexity)
+- [Algorithm Series - Insertion Sort](http://tatyanacelovsky.com/algorithm_series_-_insertion_sort)
+- [Algorithm Series - Selection Sort](http://tatyanacelovsky.com/algorithm_series_-_selection_sort)
+- [Algorithm Series - Bubble Sort](http://tatyanacelovsky.com/algorithm_series_-_bubble_sort)
+- [Let&#39;s Talk About Big-O - Time Complexity](http://tatyanacelovsky.com/let's_talk_about_big_o)
 <!-- BLOG-POST-LIST:END -->
