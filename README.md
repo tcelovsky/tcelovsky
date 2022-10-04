@@ -14,4 +14,10 @@ I'm a full stack software engineer with experience in Ruby on Rails, Javascript,
 #### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
+- [Tell Your Story with GitHub Issues](http://tatyanacelovsky.com/tell_your_story_with_github_issues)
+- [Let&#39;s Talk About Big-O - Space Complexity](http://tatyanacelovsky.com/let's_talk_about_big_o_space_complexity)
+- [Algorithm Series - Insertion Sort](http://tatyanacelovsky.com/algorithm_series_-_insertion_sort)
+- [Algorithm Series - Selection Sort](http://tatyanacelovsky.com/algorithm_series_-_selection_sort)
+- [Algorithm Series - Bubble Sort](http://tatyanacelovsky.com/algorithm_series_-_bubble_sort)
 <!-- BLOG-POST-LIST:END -->
